@@ -1,0 +1,46 @@
+.number2{
+    width: 130px;
+    height: 50px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.number1{
+    width: 130px;
+    height: 50px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.znack2{
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: aqua;
+    margin: 15px;
+}
+.end2{
+    width: 280px;
+    height: 70px;
+    border-radius: 10px;
+    margin: 10px;
+}
+.number{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.znack{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.end{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.znack2:hover{
+    background-color: blue;
+}
+.znack2:hover{
+    color: white;
+}
